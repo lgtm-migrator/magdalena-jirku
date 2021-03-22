@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/de/projects", {data:[{projects:[{title:"Bycicle Tracking Composition",image:"bycicle\u002Fthumbnail.webp",path:"\u002Fde\u002Fprojects\u002Fbycicle"}]}],fetch:{},mutations:[]});
