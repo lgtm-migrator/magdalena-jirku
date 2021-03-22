@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects", {data:[{projects:[{title:"Under construction",path:"\u002Fprojects\u002Fplaceholder",createdAt:"2021-03-22T21:46:55.197Z"}]}],fetch:{},mutations:[]});
