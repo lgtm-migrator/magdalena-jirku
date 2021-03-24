@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/placeholder", (function(a,b){return {data:[{project:{slug:"placeholder",title:"Under construction",toc:[],body:{type:"root",children:[]},dir:"\u002Fen\u002Fprojects",path:"\u002Fen\u002Fprojects\u002Fplaceholder",extension:".md",createdAt:a,updatedAt:a},prev:b,next:b}],fetch:{},mutations:[]}}("2021-03-24T03:00:53.396Z",void 0)));

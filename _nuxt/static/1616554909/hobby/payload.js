@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/hobby", {data:[{hobbies:[{title:"Under construction",path:"\u002Fhobby\u002Fplaceholder",createdAt:"2021-03-24T03:00:53.396Z"}]}],fetch:{},mutations:[]});
