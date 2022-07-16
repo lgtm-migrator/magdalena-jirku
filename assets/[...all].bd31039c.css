@@ -1,0 +1,1 @@
+.ball[data-v-f87e7e62]{background-color:var(--b6090b22);border-radius:50%;width:1rem;height:1rem;animation:ball-f87e7e62 5s infinite linear both;position:absolute}.ball[data-v-f87e7e62]:hover{transform:scale(2)}@keyframes ball-f87e7e62{0%,50%,to{left:50%}25%{left:100%}75%{left:0%}}
