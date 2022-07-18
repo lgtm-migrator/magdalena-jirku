@@ -67,7 +67,7 @@
   "src/styles/main.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.b70eefdf.js-unocss-hash.css": [],
+  "assets/app.60767966.js-unocss-hash.css": [],
   "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.3ff79d29.js"
   ],
@@ -75,96 +75,96 @@
     "/assets/virtual_pwa-register.3ff79d29.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_.e143c508.js",
+    "/assets/_...all_.64fbc59b.js",
     "/assets/[...all].c240d5f2.css"
   ],
   "src/pages/[...all].vue?vue&type=style&index=0&scoped=75320c6f&lang.css": [
-    "/assets/_...all_.e143c508.js",
+    "/assets/_...all_.64fbc59b.js",
     "/assets/[...all].c240d5f2.css"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.e143c508.js",
+    "/assets/_...all_.64fbc59b.js",
     "/assets/[...all].c240d5f2.css"
   ],
   "src/pages/impressum.md?vue&type=script&setup=true&lang.ts": [
-    "/assets/impressum.3623ad8c.js"
+    "/assets/impressum.424650d4.js"
   ],
   "src/pages/impressum.md": [
-    "/assets/impressum.3623ad8c.js"
+    "/assets/impressum.424650d4.js"
   ],
   "src/pages/legal.md?vue&type=script&setup=true&lang.ts": [
-    "/assets/legal.36442701.js"
+    "/assets/legal.b40fc44d.js"
   ],
   "src/pages/legal.md": [
-    "/assets/legal.36442701.js"
+    "/assets/legal.b40fc44d.js"
   ],
   "src/composables/gallery.ts": [
-    "/assets/index.0ec8e962.js"
+    "/assets/index.11aecb45.js"
   ],
   "src/pages/drawings/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.0ec8e962.js"
+    "/assets/index.11aecb45.js"
   ],
   "src/pages/drawings/index.vue": [
-    "/assets/index.0ec8e962.js"
+    "/assets/index.11aecb45.js"
   ],
   "node_modules/@vueuse/shared/index.mjs": [
-    "/assets/Gallery.vue_vue_type_script_setup_true_lang.4892863a.js"
+    "/assets/Gallery.vue_vue_type_script_setup_true_lang.0b28cbd8.js"
   ],
   "node_modules/@vueuse/core/index.mjs": [
-    "/assets/Gallery.vue_vue_type_script_setup_true_lang.4892863a.js"
+    "/assets/Gallery.vue_vue_type_script_setup_true_lang.0b28cbd8.js"
   ],
   "src/components/Gallery.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/Gallery.vue_vue_type_script_setup_true_lang.4892863a.js"
+    "/assets/Gallery.vue_vue_type_script_setup_true_lang.0b28cbd8.js"
   ],
   "src/composables/showcase.ts": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/components/Showcase.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/components/Showcase.vue?vue&type=style&index=0&scoped=671e9f7e&lang.css": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/components/Showcase.vue": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/pages/graphic-design/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/pages/graphic-design/index.vue": [
-    "/assets/index.435e9a5c.js",
+    "/assets/index.b0bc3793.js",
     "/assets/index.7ac01176.css"
   ],
   "src/composables/slide-in.ts": [
-    "/assets/slide-in.deea45f9.js"
+    "/assets/slide-in.0a763368.js"
   ],
   "../../../../../img/projects/tracking_comp/beautyshot.webp": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "../../../../../img/projects/tracking_comp/Bycicle_Comp_Splitscreen_1.webm": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "../../../../../img/projects/tracking_comp/splitscreen.mp4": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "src/components/projects/TrackingComp.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "../../../../../img/projects/creartive/Creartive.webm": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "../../../../../img/projects/creartive/Creartive.mp4": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "src/components/projects/Creartive.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ],
   "src/pages/motion-design/index.vue": [
-    "/assets/index.e9f3fd9b.js"
+    "/assets/index.729d07e8.js"
   ]
 }
