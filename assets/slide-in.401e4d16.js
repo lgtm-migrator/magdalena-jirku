@@ -1,0 +1,1 @@
+import{u as t}from"./Gallery.vue_vue_type_script_setup_true_lang.77423771.js";import{w as n}from"./app.d1ee09c1.js";function d(i){n(i,s=>s==null?void 0:s.classList.add("slide-in")),t(i,s=>{s.forEach(r=>{r.isIntersecting&&r.target.classList.add("slide-in-visible")})})}export{d as u};
